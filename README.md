@@ -32,8 +32,9 @@ There is no special setup and installation. Once you search for the website onli
 
 ## SCREENSHOT
 Here are some pictures of a part of my code. 
-![CSS-travel-website](https://github.com/user-attachments/assets/9a4e1bef-3b67-4634-9413-0615aa0aa4a4)
-![HTML-travel-website](https://github.com/user-attachments/assets/1e6bdcac-5b66-4feb-9d30-8047b934c019)
+![HTML](https://github.com/user-attachments/assets/4cafc530-5b63-4dff-b5c3-32733a69306a)
+![CSS](https://github.com/user-attachments/assets/0b197307-3b31-4bb4-9342-7e42b8b8ce9d)
+![README](https://github.com/user-attachments/assets/7d4cbfae-25a7-435a-9239-40c2a6a7301a)
 
 ## LICENSE
 - This project is licensed under the MIT License
