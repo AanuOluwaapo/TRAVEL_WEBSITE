@@ -88,13 +88,13 @@ h1 {
 }
 .ellipse {
   position: absolute;
-  bottom: 1px;
-  left: 20px;
+  bottom: .1em;
+  left: 1.9em;
 }
 .hero-img {
   position: absolute;
-  bottom: 2px;
-  left: 0px;
+  bottom: .2em;
+  left: 1em;
 }
 .right {
   position: relative;
@@ -269,7 +269,7 @@ button {
   text-align: left;
 }
 video{
-  width: 23em;
+  width: 28em;
   height: 20em;
 }
 .instagram {
